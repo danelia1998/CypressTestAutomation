@@ -1,0 +1,23 @@
+{
+  "name": "CypressTestAutomation",
+  "version": "1.0.0",
+  "description": "Testing has been broken for too long.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danelia1998/CypressTestAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danelia1998/CypressTestAutomation/issues"
+  },
+  "homepage": "https://github.com/danelia1998/CypressTestAutomation#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
